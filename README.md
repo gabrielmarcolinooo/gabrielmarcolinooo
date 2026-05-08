@@ -12,16 +12,26 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNICID, apaixonado por te
 
 ## 🚀 Tecnologias
 
-* PHP
-* Laravel
-* React
-* JavaScript
-* TypeScript
-* MySQL
-* HTML & CSS
-* Tailwind CSS
-* Bootstrap
-* Node.js
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmarcolinooo\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmarcolinooo\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+</div>
 
 ---
 
