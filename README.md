@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://github.com/user-attachments/assets/ff00a06c-5f31-49fd-a967-2b9fe59d0c17" width="100%" />
+
+</div>
+
+<div align="center">
+
 # Gabriel Marcolino 👨‍💻
 
 Desenvolvedor Web • PHP • Laravel • React • MySQL
