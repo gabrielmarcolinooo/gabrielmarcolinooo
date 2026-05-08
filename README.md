@@ -9,6 +9,7 @@
 # Gabriel Marcolino 👨‍💻
 
 PHP • React • JavaScript • Python • MySQL
+
 Estudante de Análise e Desenvolvimento de Sistemas na UNICID, apaixonado por tecnologia, desenvolvimento web e criação de soluções digitais modernas.
 
 </div>
