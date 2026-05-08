@@ -23,16 +23,6 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNICID, apaixonado por te
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmarcolinooo&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmarcolinooo&layout=compact&theme=tokyonight"/>
-</p>
-
-
----
-
 ## 📌 Projetos em Destaque
 
 * 🎉 Iupiii Buffet Infantil
