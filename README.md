@@ -47,4 +47,5 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNICID, apaixonado por te
 ## ⚡ Sobre mim
 
 Desenvolvedor Web focado na criação de sites, soluções digitais e interfaces modernas com foco em experiência do usuário (UX/UI).
+
 Também possuo experiência com marketing digital, suporte técnico e manutenção de computadores.
