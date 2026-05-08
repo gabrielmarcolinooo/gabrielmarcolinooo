@@ -8,8 +8,7 @@
 
 # Gabriel Marcolino 👨‍💻
 
-Desenvolvedor Web • PHP • React • JavaScript • MySQL • HTML • CSS • UX/UI
-
+PHP • React • JavaScript • Python • MySQL
 Estudante de Análise e Desenvolvimento de Sistemas na UNICID, apaixonado por tecnologia, desenvolvimento web e criação de soluções digitais modernas.
 
 </div>
@@ -18,6 +17,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNICID, apaixonado por te
 
 ## 🚀 Tecnologias
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
