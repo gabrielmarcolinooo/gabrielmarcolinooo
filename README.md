@@ -40,7 +40,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNICID, apaixonado por te
 
 ## 📫 Contato
 
-* LinkedIn: [www.linkedin.com/in/gabrielmarcolinodev](www.linkedin.com/in/gabrielmarcolinodev)
+* LinkedIn:[www.linkedin.com/in/gabrielmarcolinodev](https://www.linkedin.com/in/gabrielmarcolinodev)
 * GitHub: github.com/gabrielmarcolinooo
 
 ---
